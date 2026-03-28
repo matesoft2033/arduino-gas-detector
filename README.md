@@ -98,7 +98,7 @@ Install via Arduino IDE: `Tools → Manage Libraries`
 ---
 
 ## 📊 Bluetooth Output
-![Bluetooth](bluetooth_screenshot.jpeg)
+![Bluetooth](bluetooth.jpeg)
 
 ---
 
