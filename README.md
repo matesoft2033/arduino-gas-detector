@@ -93,12 +93,12 @@ Install via Arduino IDE: `Tools → Manage Libraries`
 ---
 
 ## 📸 Circuit
-![Circuit](circuit.jpg)
+![Circuit](circuit.jpeg)
 
 ---
 
 ## 📊 Bluetooth Output
-![Bluetooth](bluetooth_screenshot.jpg)
+![Bluetooth](bluetooth_screenshot.jpeg)
 
 ---
 
